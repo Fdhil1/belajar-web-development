@@ -821,7 +821,7 @@ Version:	1.0
 	position: absolute;
 	font-size: 20px;
 	font-weight: 700;
-	color: #757575;
+	color: #ff0000;
 	left: 50%;
 	margin-left: -20px;
 	top: 50%;
@@ -1402,7 +1402,7 @@ Version:	1.0
    09. Call To Action CSS
 ========================================*/
 .cta {
-	background-image: url('http://via.placeholder.com/1600x1000');
+	background-image: url('zoo/cta-gbr-1.webp');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1479,7 +1479,7 @@ Version:	1.0
 .cta-style3{
 	position:relative;
 	text-align: center;
-	background-image: url('http://via.placeholder.com/1600x1000');
+	background-image: url('zoo/cta-gbr-1.webp');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
